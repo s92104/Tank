@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8220c6286a799fc49a965b7f46a8bba4
+timeCreated: 1524878353
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aiTank: {fileID: 1182225225018602, guid: 32dfaa660b68f5947862742b9068d208, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
